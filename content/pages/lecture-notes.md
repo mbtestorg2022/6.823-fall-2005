@@ -81,7 +81,7 @@ Simple Instruction Pipelining (A) ([PDF]({{< baseurl >}}/resources/l05_singlecyc
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Pipeline Hazards (A) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l06_pipeline))
+Pipeline Hazards (A) ([PDF]({{< baseurl >}}/resources/l06_pipeline))
 {{< tdclose >}}
 
 {{< trclose >}}

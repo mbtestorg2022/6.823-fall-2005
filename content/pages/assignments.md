@@ -80,7 +80,7 @@ Problem Set 3
 Complex Pipelines ([PDF]({{< baseurl >}}/resources/psetm3))
 {{< tdclose >}}
 {{< tdopen >}}
-Handout 9: Scoreboarding (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/handout9))  
+Handout 9: Scoreboarding ([PDF]({{< baseurl >}}/resources/handout9))  
   
 Handout 10: Out-of-order Execution with ROB ([PDF]({{< baseurl >}}/resources/handout10))  
   
