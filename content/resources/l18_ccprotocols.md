@@ -5,6 +5,7 @@ description: This resource contains notes on multiple caches, ncoding, implicati
   non- blocking caches, and protocol diagram.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/651f70127e70cf0a66665303fcd21ad4_l18_ccprotocols.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l18_ccprotocols.pdf
 uid: 651f7012-7e70-cf0a-6666-5303fcd21ad4

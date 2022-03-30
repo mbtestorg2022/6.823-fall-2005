@@ -4,6 +4,7 @@ description: This resource talks about scoreboarding for in-order issues includi
   MIPS pipeline with floating-point units, and various hazards.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/e2f9477e0a0cc8effcc472354d962264_handout9.pdf
 file_type: application/pdf
+parent_uid: f172871a-7711-8f0b-4240-e0a301ff7efe
 resourcetype: Document
 title: handout9.pdf
 uid: e2f9477e-0a0c-c8ef-fcc4-72354d962264

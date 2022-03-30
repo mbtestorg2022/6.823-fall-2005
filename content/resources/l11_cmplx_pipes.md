@@ -5,6 +5,7 @@ description: 'This resource contains notes on complex pipelining: motivation, pi
   pipelining, and data structure.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/166b289e11b68c1e00ef9bb84cd57450_l11_cmplx_pipes.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l11_cmplx_pipes.pdf
 uid: 166b289e-11b6-8c1e-00ef-9bb84cd57450

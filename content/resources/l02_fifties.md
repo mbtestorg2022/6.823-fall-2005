@@ -8,6 +8,7 @@ description: 'This resource discusses the importance of technology, technology i
   addressing modes, and data formats and memory addresses.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/ae51ce4205e88023b9d5fe59dd25b7fd_l02_fifties.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l02_fifties.pdf
 uid: ae51ce42-05e8-8023-b9d5-fe59dd25b7fd

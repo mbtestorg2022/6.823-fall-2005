@@ -6,6 +6,7 @@ description: 'This resource contains notes on little ?s law, superscalar control
   EPIC IA-64, fully bypassed datapath, clustered VLIW, and limits of static scheduling.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/d90b42c3bf0f65f9ab8e652040cc9f0d_l21_vliw.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l21_vliw.pdf
 uid: d90b42c3-bf0f-65f9-ab8e-652040cc9f0d

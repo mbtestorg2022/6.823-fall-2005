@@ -6,6 +6,7 @@ description: This resource contains notes on pipeline hazards, multithreading, C
   out-of-order superscalar processor.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/328c0a8d88323c02c1c3f96251bb6f71_l23_multithread.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l23_multithread.pdf
 uid: 328c0a8d-8832-3c02-c1c3-f96251bb6f71

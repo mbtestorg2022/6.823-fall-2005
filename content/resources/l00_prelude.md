@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/bdee75b0fadbb349b0c43195caeb5a17_l00_prelude.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l00_prelude.pdf
 uid: bdee75b0-fadb-b349-b0c4-3195caeb5a17

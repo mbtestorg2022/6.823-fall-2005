@@ -4,6 +4,7 @@ description: This resource contains memory information, architechture, operation
   hierarchy, cache, and DRAM information.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/ef29c0115f94d96de8aa8464dc146f6e_l07_caches.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l07_caches.pdf
 uid: ef29c011-5f94-d96d-e8aa-8464dc146f6e

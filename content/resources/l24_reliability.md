@@ -7,6 +7,7 @@ description: This resource contains notes on strike changes state of a single bi
   wrong-path instructions, and other AVF issues.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/d8e58d273c2b0cb86e7fbc314df87d16_l24_reliability.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l24_reliability.pdf
 uid: d8e58d27-3c2b-0cb8-6e7f-bc314df87d16

@@ -6,6 +6,7 @@ description: 'This resource discusses ISA versus implementation, microarchitectu
   pipelining.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/964e8d2c1085754ba5ed2eba48269a0b_l05_singlecycle.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l05_singlecycle.pdf
 uid: 964e8d2c-1085-754b-a5ed-2eba48269a0b

@@ -5,6 +5,7 @@ description: This resource contains CPU- Cache interaction, pipelining cache wri
   optimizations, loop, blocking, and memory hierarchy conditions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/b2b17f5ff9e65c8f9d54b2733ff5987d_l08_caches_2.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l08_caches_2.pdf
 uid: b2b17f5f-f9e6-5c8f-9d54-b2733ff5987d

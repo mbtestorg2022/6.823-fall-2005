@@ -9,6 +9,7 @@ description: 'This resource discusses the contribution of Charles Babbage and to
   microprocessors economics, compatibility, and perpetual tension.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/c9cc8784b72c87271c839c918947458b_l01_earlydev.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l01_earlydev.pdf
 uid: c9cc8784-b72c-8727-1c83-9c918947458b

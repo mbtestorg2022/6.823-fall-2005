@@ -6,6 +6,7 @@ description: This resource contains notes on supercomputers, applications, loop 
   masked vector instructions, compress/expand operations, and multimedia extensions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/0baf1f59ca3a4a80f0198bb91b688de0_l22_vector.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l22_vector.pdf
 uid: 0baf1f59-ca3a-4a80-f019-8bb91b688de0

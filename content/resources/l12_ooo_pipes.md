@@ -5,6 +5,7 @@ description: This resource contains notes on In- Order issue, pipeline issues, r
   rollback and renaming, and branching.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-823-computer-system-architecture-fall-2005/a984df22afeb4bd732058005861a70a4_l12_ooo_pipes.pdf
 file_type: application/pdf
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l12_ooo_pipes.pdf
 uid: a984df22-afeb-4bd7-3205-8005861a70a4
